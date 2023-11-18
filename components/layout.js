@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Head from 'next/head';
 import Image from 'next/image';
 import styles from './layout.module.css';
@@ -67,3 +68,5 @@ export default function Layout({ children, home }) {
     </div>
   );
 }
+=======
+>>>>>>> parent of e85dd7a (Changed files)

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
@@ -44,3 +45,5 @@ export async function getStaticProps() {
     },
   };
 }
+=======
+>>>>>>> parent of e85dd7a (Changed files)
